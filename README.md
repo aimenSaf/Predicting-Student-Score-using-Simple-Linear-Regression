@@ -1,5 +1,8 @@
 # Predicting-Student-Score-using-Simple-Linear-Regression
-A simple problem for learning Linear Regression Implementation. Below is the graph showing the best fit line with the predited and actual values plots.
+A simple problem for learning Linear Regression Implementation. Below is the graph showing the best fit line with the predicted and actual values plots.
+
+![Model performance plot](download.png)
+
 
 
 
